@@ -1,4 +1,4 @@
-# AREs
+# ARE 5.0 Overview
 
 ## ARE 5.0
 
